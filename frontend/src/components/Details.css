@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+.codeblock {
+    white-space: pre;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 75%;
+    background-color: #eee;
+}
+
+.bigmodal .modal-dialog {
+    max-width: 1000px;
+}
